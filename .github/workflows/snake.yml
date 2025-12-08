@@ -17,8 +17,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs:
-            snake: dist/snake.svg
+          svg_out_path: dist/snake.svg
 
       - name: Push snake.svg to the output branch
         uses: EndBug/add-and-commit@v9
@@ -26,3 +25,4 @@ jobs:
           message: "Generate snake animation"
           add: "dist/snake.svg"
           branch: "output"
+
