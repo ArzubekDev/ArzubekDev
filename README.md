@@ -87,6 +87,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/ArzubekDev/ArzubekDev/output/snake.svg" alt="Snake animation" />
 
 ###
