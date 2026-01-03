@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">Я начинающий Full-stack разработчик</p>
+<p align="left">Я Full-stack разработчик</p>
 
 ###
 
