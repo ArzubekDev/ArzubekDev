@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Создаю баги с 2024 года 🐛  <br>📚 Сейчас изучаю: Websocket, NestJS<br>🎯 Цели: Стать full-stack разработчиком и участвовать в open-source проектах  <br>⚡ Навык: умею находить баги там, где их нет 🐛</p>
+<p align="left">✨ Создаю баги с 2024 года 🐛  <br>📚 Углубляю знание: React, NextJS <br>🎯 Цели: Стать сильным frontend engineer и вносить вклад в open-source.  <br>⚡ Навык: умею находить баги там, где их нет 🐛</p>
 
 ###
 
@@ -68,10 +68,10 @@
 ###
 
 <div align="left">
-  <a href=" https://www.linkedin.com/in/arzubek-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/arzubek-dzhuraev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://t.me/ArzubekDev" target="_blank">
+  <a href="https://t.me/Arzu_Dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="https://wa.me/+996550835345" target="_blank">
